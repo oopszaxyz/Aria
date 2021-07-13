@@ -1,0 +1,38 @@
+* {
+    text-align: center;
+    font: 125%/125% "Freckle Face", cursive;
+    
+  }
+body{
+  background-image: url("BG.jpeg");
+}
+
+.buttonz {
+  width: 500px;
+  height: 100px;
+  border: none;
+  color: black;
+  border-radius: 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 15px 10px;
+  cursor: pointer;
+}
+
+.buttonz:hover {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+h1 {
+  font-size: 40px;
+  background: #dfefff;
+  box-shadow: 0px 0px 0px 5px #dfefff;
+  border: dashed 1px #96c2fe;
+  padding: 0.2em 0.5em;
+  color: #454545;
+  margin: 20px 20px 20px 20px;
+}
+
